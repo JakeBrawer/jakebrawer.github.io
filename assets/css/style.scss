@@ -1,4 +1,39 @@
+---
+---
+
 @import "{{ site.theme }}";
+a {color: inherit}
 a.active {
-    color: #FFE000;
+    color: black;
 }
+p.main_nav {
+    font-size: 30;
+    font-size: 3em !important;
+}
+.center {
+    display: inline-block;
+    float: left;
+
+}
+#left, #right{
+    max-width: 70%;
+    max-height: 70%;
+    margin-left:auto;
+    margin-right:auto;
+    padding:30px;
+    display: inline-block;
+    float: left;
+
+}
+
+div.main_center {
+    margin-left: auto;
+    margin-right: auto;
+    width:80vw;
+    height:80vh;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
