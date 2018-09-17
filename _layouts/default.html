@@ -26,6 +26,7 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% include navigation.html %}
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -37,14 +38,12 @@
 
 
       <section >
-          {% if page.title == "Home" or page.title == "Research" %}
-          <div class="main_center">
-              <img src="/img/me.jpg" alt="Jazz for your soul" id="right" />
-              {% include navigation.html %}
-          </div>
-          {% else %}
-          {{ content }}
-          {% endif %}
+              {% if page.title == "Home" or page.title == "Research" %}
+                <img src="/img/me.jpg" alt="Jazz for your soul" />
+              {% else %}
+                {{ content }}
+              {% endif %}
+
 
 
       </section>
