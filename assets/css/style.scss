@@ -8,7 +8,7 @@ a.active {
 }
 p.main_nav {
     font-size: 30;
-    font-size: 3em !important;
+    font-size: 2.5em !important;
 }
 .center {
     display: inline-block;
@@ -18,8 +18,9 @@ p.main_nav {
 #left, #right{
     max-width: 70%;
     max-height: 70%;
-    margin-left:auto;
-    margin-right:auto;
+    // margin-left:auto;
+    // margin-right:auto;
+    margin: 0 4px;
     padding:30px;
     display: inline-block;
     float: left;
@@ -27,6 +28,8 @@ p.main_nav {
 }
 
 div.main_center {
+    position: relative;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width:80vw;
