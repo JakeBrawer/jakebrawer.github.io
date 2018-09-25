@@ -1,8 +1,14 @@
 ---
 ---
-
 @import "{{ site.theme }}";
+
+a:hover{
+    color:black;
+    font-weight: bold;
+    text-decoration: underline;
+}
 a {color: inherit}
+
 a.active {
     color: black;
 }
