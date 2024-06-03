@@ -1,7 +1,10 @@
 theme: jekyll-theme-minimal
 title: Jake Brawer, Ph.D
-description: Computer science Ph.D from Yale University. Social Robotics
-email: jake.brawer@yale.edu
+description: |
+  Computer science Ph.D from Yale.
+  Social Roboticist.
+  Postdoc at CU Boulder.
+email: jake.brawer@colorado.edu
 url: "http://jakebrawer.github.io/"
 
 permalink: pretty
