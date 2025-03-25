@@ -25,11 +25,11 @@ navigation_weight: 2
     <h3>{{post.title}}</h3>
     <p>{{post.authors}}</p>
     <p><em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}</p>
-    {% if post.arxiv %} <a href="{{post.arxiv}}">arxiv</a> / {% endif %}
-    {% if post.paper %} <a href="{{post.paper}}">paper</a> / {% endif %}
-    {% if post.website %} <a href="{{post.website}}">website</a> / {% endif %}
-    {% if post.video %} <a href="{{post.video}}">video</a> / {% endif %}
-    {% if post.code %} <a href="{{post.code}}">code</a> / {% endif %}
+    {% if post.arxiv %} <b><a href="{{post.arxiv}}">arxiv</a></b> / {% endif %}
+    {% if post.paper %} <b><a href="{{post.paper}}">paper</a></b> / {% endif %}
+    {% if post.website %} <b><a href="{{post.website}}">website</a></b> / {% endif %}
+    {% if post.video %} <b><a href="{{post.video}}">video</a></b> / {% endif %}
+    {% if post.code %} <b><a href="{{post.code}}">code</a></b> / {% endif %}
     <p>{{ post.excerpt }}</p>
   </div>
 </div>
