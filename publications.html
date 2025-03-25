@@ -8,7 +8,7 @@ navigation_weight: 5
 {% for post in site.posts %}
 {% for cat in post.categories %}
 {% if cat == 'research' %}
-<div class="research-entry" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div class="research-entry" style="display: flex; align-items: center; margin-bottom: 20px; border: 3px solid #f8f8f8; padding: 10px;">
   <!-- Image on the left -->
   <div style="width: 60%; min-width: 120px; text-align: left; padding-right: 15px;">
     {% if post.image contains ".mp4" %}
@@ -21,7 +21,7 @@ navigation_weight: 5
 {% endif %}
   </div>
   <!-- Text on the right -->
-  <div class="research-details" style="width: 75%;">
+  <div class="research-details" style="width: 75%; ">
     <h3>{{post.title}}</h3>
     <p>{{post.authors}}</p>
     <p><em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}</p>
