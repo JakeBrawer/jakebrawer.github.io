@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Situated Human–Robot Collaboration: Predicting Intent from Grounded Natural Language"
+date: 2018-10-01
+image: /images/grounded.png
+categories: research
+author: "Jake Brawer"
+authors: "<strong>Jake Brawer</strong>, Olivier Mangin, Alessandro Roncone, Sarah Widder, Brian Scassellati"
+venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+pages: "827-833"
+publisher: "IEEE"
+paper: https://scazlab.yale.edu/sites/default/files/files/Brawer_IROS18.pdf
+---
+
+This paper presents a framework for grounding natural language into robot action selection during collaborative tasks. By maintaining separate models for speech and context, the system incrementally updates its understanding of intent, enabling more fluent human-robot collaboration.

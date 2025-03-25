@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Eyes on the Game: Deciphering Implicit Human Signals to Infer Human Proficiency, Trust, and Intent"
+date: 2024-08-26
+image: /images/eyes.png 
+categories: research
+author: "Jake Brawer"
+authors: "Nikhil Hulle, Stéphane Aroca-Ouellette, Anthony J Ries, <strong>Jake Brawer</strong>, Katharina Von Der Wense, Alessandro Roncone"
+venue: "33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
+pages: "453-460"
+publisher: "IEEE"
+arxiv: https://arxiv.org/pdf/2407.03298
+---
+
+We show that eye gaze data and gameplay data can be used to accurately model a human teammates intentions and beliefs about an AI teammate in the game Overcooked.

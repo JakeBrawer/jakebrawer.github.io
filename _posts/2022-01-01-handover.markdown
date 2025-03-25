@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Task-Oriented Robot-to-Human Handovers in Collaborative Tool-Use Tasks"
+date: 2022-01-01
+image: /images/handover.png 
+categories: research
+author: "Jake Brawer"
+authors: "Meiying Qin, Jake Brawer, Brian Scassellati"
+venue: "2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
+paper: https://scazlab.yale.edu/sites/default/files/files/ROMAN%202022%20handovers.pdf
+---
+
+This paper introduces a taxonomy of robot-to-human handovers and focuses on **task-oriented handovers**, where the object is passed in a way that facilitates immediate tool use. The proposed method trains the robot via tool-use demonstrations, enabling adaptable handovers even for novel tools and unusual usage contexts.

@@ -2,7 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-a:hover{
+
+hover{
     color:black;
     font-weight: bold;
     text-decoration: underline;
@@ -14,7 +15,7 @@ a.active {
 }
 p.main_nav {
     font-size: 30;
-    font-size: 2.5em !important;
+    font-size: 2.0em;
 }
 .center {
     display: inline-block;
@@ -45,4 +46,55 @@ div.main_center {
     top: 0;
     bottom: 0;
 }
+.headshot-container {
+    text-align: center;
+    margin-bottom: 20px; /* adjust as needed */
+}
+
+.headshot {
+    width: 200px; /* adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* optional, gives a circular look */
+}
+.text_box {
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    line-height: 1.2em;
+}
+
+/* Compact the header area */
+header {
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    line-height: 1.2em;
+}
+
+
+/* Reduce size and spacing of the main title */
+/* header h1 { */
+/*     margin: 0; */
+/*     font-size: 1.5em; */
+/*     line-height: 1.2em; */
+/* } */
+
+/* Shrink description and email */
+/* header p { */
+/*     margin: 4px 0; */
+/*     font-size: 0.9em; */
+/*     line-height: 1.2em; */
+/* } */
+
+/* Make nav bar horizontal (if it’s not already) */
+
+nav ul li {
+    display: inline;
+}
+
+/* Optional: shrink download buttons if you’re keeping them in the header */
+ul.downloads {
+    margin-top: 5px;
+    font-size: 0.85em;
+}
+
+
 

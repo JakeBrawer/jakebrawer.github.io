@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Cooperative-Adversarial Play (CAP)"
+date: 2025-01-01
+categories: ongoing
+author: "Jake Brawer"
+venue: "Paper in progress"
+authors: "Ava Abderezaei, Chi-Hui Lin, Joseph Miceli, Naren Sivagnanadasan, Stéphane Aroca-Ouellette,  <strong>Jake Brawer</strong>, Alessandro Roncone"
+image: /images/cap_method.png
+---
+
+We introduce Cooperative-Adversarial Play (CAP), a training method that improves zero-shot coordination by forcing agents to learn diverse strategies through adversarial teammate interventions. CAP enables agents to adapt to unfamiliar partners more effectively, especially in complex environments like Overcooked, outperforming existing approaches as coordination challenges increase.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Interactive Policy Shaping for Human-Robot Collaboration with Transparent Matrix Overlays"
+date: 2023-03-13
+categories: research
+image: /images/overlay.png 
+author: "Jake Brawer"
+authors: "<strong>Jake Brawer</strong>, Debasmita Ghose, Kate Candon, Meiying Qin, Alessandro Roncone, Marynel Vázquez, Brian Scassellati"
+venue: "ACM/IEEE International Conference on Human-Robot Interaction"
+pages: "525-533"
+paper: https://scazlab.yale.edu/sites/default/files/files/HRI_2023___Chefbot.pdf
+website: https://sites.google.com/view/transparent-matrix-overlays/home
+---
+
+🏆 **Best Technical Paper Award**
+ This work introduces Transparent Matrix Overlays, a novel framework that allows humans to shape a robot's policy during execution using simple verbal commands. The approach aims to enhance both **adaptability** and **explainability** in human-robot collaboration.

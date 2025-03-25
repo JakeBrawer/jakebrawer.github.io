@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Research | Jake Brawer, Ph.D</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Research" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Computer science Ph.D from Yale.Postdoc at CU Boulder.Social Roboticist." />
+<meta property="og:description" content="Computer science Ph.D from Yale.Postdoc at CU Boulder.Social Roboticist." />
+<link rel="canonical" href="http://localhost:4001/research.html_bak" />
+<meta property="og:url" content="http://localhost:4001/research.html_bak" />
+<meta property="og:site_name" content="Jake Brawer, Ph.D" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Research" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Computer science Ph.D from Yale.Postdoc at CU Boulder.Social Roboticist.","headline":"Research","url":"http://localhost:4001/research.html_bak"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper" >
+      <header>
+        <h1><a href="http://localhost:4001/">Jake Brawer, Ph.D</a></h1>
+
+        
+        <div class="headshot-container">
+            <img src="/img/jake_bw_circle.jpg" alt="Jake Brawer, Ph.D headshot" class="headshot">
+        </div>
+        
+
+        <div style="text-align: center; margin-top: 10px;">
+        <p><a href="https://mailhide.io/en/e/cb2eTmo6"> Email</a></a> /
+        <a href="https://github.com/JakeBrawer">GitHub</a> /
+        <a href="https://scholar.google.com/citations?hl=en&user=1WIr3ZsAAAAJ">Scholar</a> /
+        <a href="https://www.linkedin.com/in/jake-brawer-947233232/">LinkedIn</a>
+        <!-- <a href="https://jakebrawer.com//assets/pdfs/brawer_cv.pdf">CV</a> -->
+      </div>
+        <p>Computer science Ph.D from Yale.<br>Postdoc at CU Boulder.<br>Social Roboticist.</p>
+
+        
+
+        
+
+        <nav >
+        
+        
+         
+        
+    <p class="main_nav">
+            <a href="/"  >
+                Home
+            </a>
+    </p>
+         
+        
+    <p class="main_nav">
+            <a href="/ongoing/"  >
+                Current Research
+            </a>
+    </p>
+         
+        
+    <p class="main_nav">
+            <a href="/publications/"  >
+                Publications
+            </a>
+    </p>
+         
+    <!-- My Cv -->
+    <p class="main_nav">
+        <a href="http://localhost:4001/assets/pdfs/brawer_cv.pdf">
+            CV
+        </a>
+    </p>
+
+</nav>
+
+        
+      </header>
+
+
+      <section >
+              
+                <div id="outline-container-org6c65325" class="outline-2">
+<h2 id="org6c65325">The deeper questions</h2>
+<div class="outline-text-2" id="text-org6c65325">
+<blockquote>
+<p>
+"&#x2026;I see a bandwagon today, where vast numbers of new recruits to AI/ML have jumped aboard after recent successes of Machine Learning, and are running with particular versions of it as fast as they can. They have neither any understanding of how their tiny little narrow technical field fits into a bigger picture of intelligent systems, nor do they care. They think that the current little hype niche is all that matters, are blind to its limitations, and are uninterested in deeper questions."
+</p>
+</blockquote>
+<div align="right">
+ <a href="https://rodneybrooks.com/forai-machine-learning-explained/"> &mdash;Rodney Brooks</a>
+
+</div>
+
+<p>
+<br />
+My research explores the "deeper questions." I am fascinated by the nature of human intelligence and the complex social dynamics it engenders. I am attracted to robotics research that seeks to model social phenomena because it can provide a twofold benefit: such models not only validate theories from psychology and neuroscience, but also produce methods for designing more intelligent and useful robotic systems. Indeed, socially intelligent robots are uniquely equipped to support humans by leveraging the same pro-social dynamics present in productive human&#x2013;human interactions. To this end, my goal is to conduct at the intersection of machine learning, neuroscience, and psychology to create robots capable of helping people, both in the spirit of scientific inquiry and for the betterment of society. In particular, I am interested in robotic systems that can both learn, and reason about their learning in a manner that is transparently communicable and intuitive to human users.
+</p>
+</div>
+</div>
+
+              
+
+
+
+      </section>
+      <footer>
+          <!--  -->
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Teaching Language to Deaf Infants with a Robot and a Virtual Human"
+date: 2018-04-21
+image: /images/infant.png 
+categories: research
+author: "Jake Brawer"
+authors: "Brian Scassellati, <strong>Jake Brawer</strong>, Katherine Tsui, Setareh Nasihati Gilani, Melissa Malzkuhn, Barbara Manini, Adam Stone, Geo Kartheiser, Arcangelo Merla, Ari Shapiro, David Traum, Laura-Ann Petitto"
+venue: "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+pages: "1-13"
+paper: https://scazlab.yale.edu/sites/default/files/files/pn4384-scassellatiA.pdf
+---
+
+This paper presents a multi-agent system combining a robot and virtual human to augment language exposure for deaf infants during critical developmental periods. The system provides socially contingent visual language, addressing the challenge of language acquisition in deaf infants born to hearing parents.

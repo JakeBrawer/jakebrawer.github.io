@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Publications | Jake Brawer, Ph.D</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Publications" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Computer science Ph.D from Yale.Postdoc at CU Boulder.Social Roboticist." />
+<meta property="og:description" content="Computer science Ph.D from Yale.Postdoc at CU Boulder.Social Roboticist." />
+<link rel="canonical" href="http://localhost:4001/publications.html_bak" />
+<meta property="og:url" content="http://localhost:4001/publications.html_bak" />
+<meta property="og:site_name" content="Jake Brawer, Ph.D" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Publications" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Computer science Ph.D from Yale.Postdoc at CU Boulder.Social Roboticist.","headline":"Publications","url":"http://localhost:4001/publications.html_bak"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper" >
+      <header>
+        <h1><a href="http://localhost:4001/">Jake Brawer, Ph.D</a></h1>
+
+        
+        <div class="headshot-container">
+            <img src="/img/jake_bw_circle.jpg" alt="Jake Brawer, Ph.D headshot" class="headshot">
+        </div>
+        
+
+        <div style="text-align: center; margin-top: 10px;">
+        <p><a href="https://mailhide.io/en/e/cb2eTmo6"> Email</a></a> /
+        <a href="https://github.com/JakeBrawer">GitHub</a> /
+        <a href="https://scholar.google.com/citations?hl=en&user=1WIr3ZsAAAAJ">Scholar</a> /
+        <a href="https://www.linkedin.com/in/jake-brawer-947233232/">LinkedIn</a>
+        <!-- <a href="https://jakebrawer.com//assets/pdfs/brawer_cv.pdf">CV</a> -->
+      </div>
+        <p>Computer science Ph.D from Yale.<br>Postdoc at CU Boulder.<br>Social Roboticist.</p>
+
+        
+
+        
+
+        <nav >
+        
+        
+         
+        
+    <p class="main_nav">
+            <a href="/"  >
+                Home
+            </a>
+    </p>
+         
+        
+    <p class="main_nav">
+            <a href="/ongoing/"  >
+                Current Research
+            </a>
+    </p>
+         
+        
+    <p class="main_nav">
+            <a href="/publications/"  >
+                Publications
+            </a>
+    </p>
+         
+    <!-- My Cv -->
+    <p class="main_nav">
+        <a href="http://localhost:4001/assets/pdfs/brawer_cv.pdf">
+            CV
+        </a>
+    </p>
+
+</nav>
+
+        
+      </header>
+
+
+      <section >
+              
+                <div id="bibliography">
+<h2>References</h2>
+
+<table>
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="brawer2023overlays">1</a>]
+</td>
+<td class="bibtexitem">
+<b>Jake</b> <b>Brawer</b>, Debasmita Ghose, Kate Candon, Meiying Qin,
+  Alessandro Roncone, Marynel Vazquez, and Brian Scassellati.
+ 
+  <a href="https://jakebrawer.com/assets/pdfs/HRI23.pdf"><b>interactive
+  policy shaping for human-robot collaboration with transparent matrix
+  overlays</b></a>.
+ In <em>Proceedings of the 2023 ACM/IEEE International Conference on
+  Human-Robot Interaction</em>. IEEE, 2023.
+<blockquote><font size="-1">
+Keywords: conference
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="qin2023TAAMP">2</a>]
+</td>
+<td class="bibtexitem">
+Meiying Qin, <b>Jake</b> <b>Brawer</b>, and Brian Scassellati.
+ <b>Using Task, Affordance, and Motion Planning (TAAMP) to Detect
+  Infeasible or Limited Solutions in Affordance-Constrained Environments</b>.
+ In <em>In submission at the 2023 IEEE international conference on
+  robotics and automation (ICRA)</em>. IEEE, 2023.
+<blockquote><font size="-1">
+Keywords: insubmission
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="brawerdissertation2023">3</a>]
+</td>
+<td class="bibtexitem">
+<b>Jake</b> <b>Brawer</b>.
+ <em>
+  <a href="https://jakebrawer.com/assets/pdfs/DISSERTATION.pdf"><b>Fusing
+  Symbolic and Subsymbolic Approaches for Natural and Effective Human-Robot
+  Collaboration</b></a></em>.
+ PhD thesis, Yale University, 2023.
+<blockquote><font size="-1">
+Keywords: thesis
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="qin2022handover">4</a>]
+</td>
+<td class="bibtexitem">
+Meiying Qin, <b>Jake</b> <b>Brawer</b>, and Brian Scassellati.
+ 
+  <a href="https://jakebrawer.com/assets/pdfs/ROMAN22.pdf"><b>task-oriented
+  robot-to-human handovers in collaborative tool-use tasks</b></a>.
+ In <em>2022 31st IEEE International Conference on Robot &amp; Human
+  Interactive Communication (RO-MAN)</em>. IEEE, 2022.
+<blockquote><font size="-1">
+Keywords: conference
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="qin2023Survey">5</a>]
+</td>
+<td class="bibtexitem">
+Meiying Qin, <b>Jake</b> <b>Brawer</b>, and Brian Scassellati.
+ 
+  <a href="https://jakebrawer.com/assets/pdfs/FRONTIERS23.pdf"><b>robot tool
+  use: a survey</b></a>.
+ <em>Frontiers in Robotics and AI</em>, 9:369, 2022.
+<blockquote><font size="-1">
+Keywords: journal
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="qin2021rapidl">6</a>]
+</td>
+<td class="bibtexitem">
+Meiying *&nbsp;Qin, <b>Jake</b> *&nbsp;<b>Brawer</b>, and Brian Scassellati.
+ 
+  <a href="https://jakebrawer.com/assets/pdfs/frontiers21.pdf"><b>rapidly
+  learning generalizable and robot-agnostic tool-use skills for a wide range of
+  tasks</b></a>.
+ <em>Frontiers in Robotics and AI</em>, 8:380, 2021.
+<blockquote><font size="-1">
+Keywords: journal
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Brawer2020">7</a>]
+</td>
+<td class="bibtexitem">
+<b>Jake</b> <b>Brawer</b>, Meiying Qin, and Brian Scassellati.
+ <a href="https://jakebrawer.com/assets/pdfs/IROS2020.pdf"><b>a
+  causal approach to tool affordance learning</b></a>.
+ In <em>2020 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)</em>, pages 8394--8399. IEEE, 2020.
+<blockquote><font size="-1">
+Keywords: conference
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="tan2018s">8</a>]
+</td>
+<td class="bibtexitem">
+Zong&nbsp;Xuan Tan, <b>Jake</b> <b>Brawer</b>, and Brian Scassellati.
+ <a href="https://jakebrawer.com/assets/pdfs/AAAI18.pdf"><b>that's
+  mine! learning ownership relations and norms for robots </b></a>.
+ <em>Thirty-second AAAI conference on artificial intelligence</em>, 2018.
+<blockquote><font size="-1">
+Keywords: conference
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Scassellati2018">9</a>]
+</td>
+<td class="bibtexitem">
+Brian Scassellati, <b>Jake</b> <b>Brawer</b>, Katherine Tsui, Setareh
+  Nasihati&nbsp;Gilani, Melissa Malzkuhn, Barbara Manini, Adam Stone, Geo
+  Kartheiser, Arcangelo Merla, Ari Shapiro, et&nbsp;al.
+ <a href="https://jakebrawer.com/assets/pdfs/CHI18.pdf"><b>teaching
+  language to deaf infants with a robot and a virtual human</b></a>.
+ In <em>Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems</em>, page 553. ACM, 2018.
+<blockquote><font size="-1">
+Keywords: conference
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Brawer2018">10</a>]
+</td>
+<td class="bibtexitem">
+<b>Jake</b> <b>Brawer</b>, Olivier Mangin, Alessandro Roncone, Sarah
+  Widder, and Brian Scassellati.
+ <a href="https://jakebrawer.com/assets/pdfs/IROS18.pdf"><b>situated
+  human--robot collaboration: predicting intent from grounded natural
+  language</b></a>.
+ In <em>Intelligent Robots and Systems (IROS)</em>, 2018.
+<blockquote><font size="-1">
+Keywords: conference
+</font></blockquote>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Brawer2017">11</a>]
+</td>
+<td class="bibtexitem">
+<b>Jake</b> <b>Brawer</b>, Aaron Hill, Ken Livingston, Eric Aaron, Joshua
+  Bongard, and John&nbsp;H Long&nbsp;Jr.
+ 
+  <a href="https://jakebrawer.com/assets/pdfs/FRONTIERS17.pdf"><b>epigenetic
+  operators and the evolution of physically embodied robots</b></a>.
+ <em>Frontiers in Robotics and AI</em>, 4:1, 2017.
+<blockquote><font size="-1">
+Keywords: journal
+</font></blockquote>
+
+</td>
+</tr>
+</table>
+</div>
+
+              
+
+
+
+      </section>
+      <footer>
+          <!--  -->
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>

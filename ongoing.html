@@ -1,0 +1,38 @@
+---
+title: Current Research
+layout: default
+navigation_weight: 2
+---
+
+
+{% for post in site.posts %}
+{% for cat in post.categories %}
+{% if cat == 'ongoing' %}
+<div class="research-entry" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- Image on the left -->
+  <div style="width: 60%; min-width: 120px; text-align: left; padding-right: 15px;">
+    {% if post.image contains ".mp4" %}
+    <video autoplay loop muted playsinline style="width:auto; height:auto; max-width:100%;">
+      <source src="/img/{{post.image}}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+{% else %}
+<img src="/img/{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+{% endif %}
+  </div>
+  <!-- Text on the right -->
+  <div class="research-details" style="width: 75%;">
+    <h3>{{post.title}}</h3>
+    <p>{{post.authors}}</p>
+    <p><em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}</p>
+    {% if post.arxiv %} <a href="{{post.arxiv}}">arxiv</a> / {% endif %}
+    {% if post.paper %} <a href="{{post.paper}}">paper</a> / {% endif %}
+    {% if post.website %} <a href="{{post.website}}">website</a> / {% endif %}
+    {% if post.video %} <a href="{{post.video}}">video</a> / {% endif %}
+    {% if post.code %} <a href="{{post.code}}">code</a> / {% endif %}
+    <p>{{ post.excerpt }}</p>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+{% endfor %}

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Rapidly Learning Generalizable and Robot-Agnostic Tool-Use Skills for a Wide Range of Tasks"
+date: 2021-12-14
+categories: research
+image: /images/tristar.png 
+author: "Jake Brawer"
+authors: "Meiying Qin*, <strong>Jake Brawer*</strong>, Brian Scassellati"
+venue: "Frontiers in Robotics and AI"
+volume: "8"
+pages: "726463"
+publisher: "Frontiers Media SA"
+paper: https://scazlab.yale.edu/sites/default/files/files/Rapidly_Learning_FRONTIERS21.pdf
+---
+
+**Co-first authors:** Meiying Qin and Jake Brawer contributed equally to this work.
+ This paper presents **TRI-STAR**, a framework for teaching robots tool-use skills that generalize across tasks, tools, and robot platforms. With only 20 demonstrations, TRI-STAR learns adaptable and transferable tool-use strategies, enabling robots to solve diverse tasks using novel tools.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "A Causal Approach to Tool Affordance Learning"
+date: 2020-10-24
+image: /images/causal_vid.gif
+categories: research
+author: "Jake Brawer"
+authors: "<strong>Jake Brawer</strong>, Meiying Qin, Brian Scassellati"
+venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+pages: "8394-8399"
+publisher: "IEEE"
+paper: https://scazlab.yale.edu/sites/default/files/files/IROS2020(5).pdf
+video: https://youtu.be/g6mN4cUFNPw
+---
+
+This paper presents a method for robots to build causal models of tool affordances through observation and self-supervised experimentation. By understanding cause-and-effect relationships, robots can generalize tool-use skills to novel tools and contexts with minimal training.
+
+
