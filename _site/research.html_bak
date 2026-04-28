@@ -12,14 +12,14 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="AI and robotics researcher/engineer.Computer science Ph.D. from Yale.Human-centered AI systems." />
 <meta property="og:description" content="AI and robotics researcher/engineer.Computer science Ph.D. from Yale.Human-centered AI systems." />
-<link rel="canonical" href="http://localhost:4000/research.html_bak" />
-<meta property="og:url" content="http://localhost:4000/research.html_bak" />
+<link rel="canonical" href="https://jakebrawer.github.io/research.html_bak" />
+<meta property="og:url" content="https://jakebrawer.github.io/research.html_bak" />
 <meta property="og:site_name" content="Jake Brawer, Ph.D." />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Research" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"AI and robotics researcher/engineer.Computer science Ph.D. from Yale.Human-centered AI systems.","headline":"Research","url":"http://localhost:4000/research.html_bak"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"AI and robotics researcher/engineer.Computer science Ph.D. from Yale.Human-centered AI systems.","headline":"Research","url":"https://jakebrawer.github.io/research.html_bak"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=">
@@ -30,7 +30,7 @@
   <body>
     <div class="wrapper" >
       <header>
-        <h1><a href="http://localhost:4000/">Jake Brawer, Ph.D.</a></h1>
+        <h1><a href="https://jakebrawer.github.io/">Jake Brawer, Ph.D.</a></h1>
 
         
         <div class="headshot-container">
@@ -78,7 +78,7 @@
          
     <!-- My Cv -->
     <p class="main_nav">
-        <a href="http://localhost:4000/assets/pdfs/brawer_cv.pdf">
+        <a href="https://jakebrawer.github.io/assets/pdfs/brawer_cv.pdf">
             CV
         </a>
     </p>
