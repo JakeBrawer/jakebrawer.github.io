@@ -4,7 +4,7 @@ title: "Towards a Natural Language Interface for Flexible Multi-Agent Task Assig
 date: 2023-01-01
 categories: research
 author: "Jake Brawer"
-authors: "<strong>Jake Brawer<\strong>, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone"
+authors: "<strong>Jake Brawer</strong>, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone"
 venue: "Proceedings of the AAAI Symposium Series"
 volume: "2"
 issue: "1"
