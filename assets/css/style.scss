@@ -28,17 +28,13 @@ p.main_nav a {
     display: block;
     padding: 10px 12px;
     background-color: #f0f0f0;
-    border: 1px solid #e0e0e0;
-    border-radius: 3px;
     font-size: 1.35em;
-    font-weight: 600;
     line-height: 1.1;
     text-align: center;
 }
 
 p.main_nav a:hover,
 p.main_nav a.active {
-    background-color: #e4e4e4;
     color: black;
     text-decoration: none;
 }
@@ -90,6 +86,7 @@ div.main_center {
 /* Compact the header area */
 header {
     padding: 10px 20px;
+    background-color: #f8f8f8;
     line-height: 1.2em;
 }
 
@@ -119,5 +116,4 @@ ul.downloads {
     margin-top: 5px;
     font-size: 0.85em;
 }
-
 
